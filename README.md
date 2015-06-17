@@ -19,3 +19,11 @@ def Test():
    print "hello, world!"
    
 ```
+
+###JS
+
+```js
+var main = function() {
+    alert("hello, world !");
+}
+```
